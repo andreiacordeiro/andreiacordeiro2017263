@@ -103,7 +103,7 @@ rgba(247, 247, 124, 0.5)), url(../img/a.jpg) center/cover fixed no-repeat;
 }
 .item-3 {
 background: linear-gradient(to right, rgba(255, 134, 41, 0.9),
-rgba(247, 247, 124, 0.5)), url(../img/me.jpg) center/cover fixed no-repeat;
+rgba(247, 247, 124, 0.5)), url(../img/me.JPG) center/cover fixed no-repeat;
 }
 .slide-btn {
 color: #f1fffa;
